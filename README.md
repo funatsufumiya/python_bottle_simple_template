@@ -1,7 +1,6 @@
-python bottle and osc server template
+python bottle server template
 
 ## Requirements
 
 - Python 3
 - bottle
-- python-osc
